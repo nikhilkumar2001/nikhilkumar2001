@@ -1,5 +1,4 @@
-<img src="[https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg](https://images.app.goo.gl/GCb6gnNy9EDjAA7c6)" width="100%" />
-<h1 align="center">Hola 👋, I'm Nikhil Kumar</h1>
+<h1 align="center">Hola 🤍, I'm Nikhil Kumar</h1>
 <h3 align="center">React.js Developer</h3>
 
 
