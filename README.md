@@ -1,7 +1,7 @@
 <h1 align="center">Hola 🤍, Myself Nikhil Kumar</h1>
 <h3 align="center">Web Developer</h3>
 
-<img align="right" width="400" src="https://33.media.tumblr.com/1e568035178b1f4f13559a7068172319/tumblr_ninugsLO3F1tgyrb1o1_500.gif" alt="coding" />
+<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif" alt="coding" />
 
 - 🔭 I’m currently working on **React.js**
 - 🤝 Did Freelance for [TheCrazyevents](https://www.thecrazyevents.com/)
@@ -57,5 +57,5 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikhilkumar2001&theme=2077" height="180em" />
 </div>
 
-<h3 align="left">Donate a coffee cup ;)</h3>
+<h3 align="left">Donate a cup of coffee ;)</h3>
 <p><a href="https://ko-fi.com/nikhilkumar2001"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="nikhilkumar2001" /></a></p><br><br>
