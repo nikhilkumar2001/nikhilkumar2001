@@ -1,7 +1,7 @@
 <h1 align="center">Hola 🤍, I'm Nikhil Kumar</h1>
 <h3 align="center">React.js Developer</h3>
 
-<img align="right" width="400" src="https://images.app.goo.gl/UnSdXTmwd3FXhos5A" alt="coding" />
+<img align="right" width="400" src="https://images.app.goo.gl/UnSdXTmwd3FXhos5A.gif" alt="coding" />
 
 - 🔭 I’m currently working on **React.js**
 - 🤝 Did Freelance for [TheCrazyevents](https://www.thecrazyevents.com/)
