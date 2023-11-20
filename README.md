@@ -1,4 +1,4 @@
-<h1 align="center">Hola 🤍, I'm Nikhil Kumar</h1>
+<h1 align="center">Hola 🤍, Myself Nikhil Kumar</h1>
 <h3 align="center">React.js Developer</h3>
 
 <img align="right" width="400" src="https://33.media.tumblr.com/1e568035178b1f4f13559a7068172319/tumblr_ninugsLO3F1tgyrb1o1_500.gif" alt="coding" />
