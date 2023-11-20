@@ -1,4 +1,4 @@
-<img align="right" display="inline" width="200" src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" />
+<img align="right" display="inline" width="200" src="https://i.gifer.com/origin/b7/b7fa6c6640c217d836dd7f4e6e6ee8f0_w200.gif" />
 <h1 align="center"> Myself Nikhil Kumar</h1>
 
 <h3 align="center">Web Developer</h3>
