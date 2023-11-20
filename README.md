@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on **React.js**
-- 🤝 Did Freelancing with [TheCrazyevents](https://www.thecrazyevents.com/)
+- 🤝 Did Freelance for [TheCrazyevents](https://www.thecrazyevents.com/)
 - 🌱 I’m currently learning **Redux**
 - 💬 Ask me about **Web developement , react and other technologies**
 - 📫 How to reach me **mickyroy85@gmail.com**
