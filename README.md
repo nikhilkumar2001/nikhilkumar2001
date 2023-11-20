@@ -1,3 +1,4 @@
+<img align="center" width="200" src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" />
 <h1 align="center">Hola 🤍, Myself Nikhil Kumar</h1>
 <h3 align="center">Web Developer</h3>
 
