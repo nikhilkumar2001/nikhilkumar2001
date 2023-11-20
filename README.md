@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+<img src="[https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg](https://images.app.goo.gl/GCb6gnNy9EDjAA7c6)" width="100%" />
 <h1 align="center">Hola 👋, I'm Nikhil Kumar</h1>
 <h3 align="center">React.js Developer</h3>
 
@@ -43,8 +43,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikhilkumar2001&theme=dark_lover" alt="nikhilkumar2001" /></a> </p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/nikhilkumar2001"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="nikhilkumar2001" /></a></p><br><br>
+
 
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilkumar2001&layout=compact&theme=transparent" alt=nikhilkumar2001 />
@@ -60,3 +59,6 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nikhilkumar2001&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikhilkumar2001&theme=2077" height="180em" />
 </div>
+
+<h3 align="left">Donate a coffee cup ;)</h3>
+<p><a href="https://ko-fi.com/nikhilkumar2001"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="nikhilkumar2001" /></a></p><br><br>
