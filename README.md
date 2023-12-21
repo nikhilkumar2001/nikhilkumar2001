@@ -59,5 +59,4 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikhilkumar2001&theme=2077" height="180em" />
 </div>
 
-<h3 align="left">Donate a cup of coffee ;)</h3>
-<p><a href="https://ko-fi.com/nikhilkumar2001"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="nikhilkumar2001" /></a></p><br><br>
+
