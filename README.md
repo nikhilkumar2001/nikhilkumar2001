@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Redux**
 - 💬 Ask me about **Web developement , react and other technologies**
 - 📫 How to reach me **mickyroy85@gmail.com**
-- 👨‍💻 All of my projects are available at **https://nikhilkumar2001.github.io/portfolio/**
+- 👨‍💻 All of my projects are available at **https://nik-portfolio-ivory.vercel.app**
 - ⚡ Code and enjoy the rest
 
 
